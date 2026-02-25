@@ -13,8 +13,20 @@ img {
    height: auto;
 }
 .caption {
-  color: #b0c4de;
+  color: #b22222;
   font-style: bold;
+}
+a:link {
+   color:#2f4f4f ;
+}
+a:visited {
+   color:#696969 ;
+}
+a:hover {
+   color:#00ffff ;
+}
+a:active {
+   color:#b22222 ;
 }
 
 
