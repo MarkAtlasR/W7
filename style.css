@@ -28,7 +28,9 @@ a:hover {
 a:active {
    color:#b22222 ;
 }
-
+footer a:hover {
+text-decoration: none;
+}
 
 
 
