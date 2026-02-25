@@ -15,6 +15,7 @@ img {
 .caption {
   color: #b22222;
   font-style: bold;
+  text-align: center;
 }
 a:link {
    color:#2f4f4f ;
