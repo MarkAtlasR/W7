@@ -8,7 +8,10 @@ h1 {
    font-size: 60px;
    color: #008b8b;
 }
-
+img {
+   with: 100%;
+   height: auto;
+}
 
 
 
