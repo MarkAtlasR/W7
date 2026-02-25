@@ -12,6 +12,10 @@ img {
    with: 100%;
    height: auto;
 }
+.caption {
+  color: #b0c4de;
+  font-style: bold;
+}
 
 
 
